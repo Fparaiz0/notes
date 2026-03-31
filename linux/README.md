@@ -1,5 +1,8 @@
 # 🐧 Guia Rápido de Comandos Essenciais do Linux
 
+## 📚️ Livros
+[Clique aqui](/linux/books)
+
 ## 🗺️ Navegação de Conteúdo
 
 ### 🧱 Básico (terminal e arquivos)
