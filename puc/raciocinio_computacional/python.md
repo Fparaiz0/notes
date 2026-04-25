@@ -39,3 +39,16 @@ array = [1,2,3,4,5]
 array.append(6)
 print(array) # -> retorna: "1,2,3,4,5,6".
 ```
+
+### Match
+ - É como se fosse o switch no PHP:
+```python
+comando = input("Digite um comando:")
+match comando:
+ case "ABOUT":
+  print("Sobre o sistema.")
+ case "QUIT":
+  print("Saindo.")
+ case _: # o "case_" funciona como se fosse o else e cada "case" anterior um elif.
+  print("Comando inválido")
+```
