@@ -23,7 +23,7 @@ array = [1,2,3,4,5]
 ```python
 array = [1,2,3,4,5]
 for indice, elemento in enumerate(array)
- print(f"{indice} -> {elemento}")
+ print(f"{indice} : {elemento}")
  # aqui retornaria basicamente isso:
  # 0: 1
  # 1: 2
@@ -51,4 +51,25 @@ match comando:
   print("Saindo.")
  case _: # o "case_" funciona como se fosse o else e cada "case" anterior um elif.
   print("Comando inválido")
+```
+
+### Dicionário
+ - São os objetos no python:
+```python
+dicionario = {
+ "nome": "lucas",
+ "idade": 20,
+ "vivo": true
+}
+
+# Métodos para ler os itens de um dicionário:
+
+for chave, valor in dicionario.items(): # O método "items()" retorna o valor e a chave do dicionário.
+ print("{chave} : {valor}")
+
+for chave in dicionario.keys(): # O método "keys()" retorna a chave do dicionário.
+ print("{chave}")
+
+for valor in dicionario.values(): # O método "values()" retorna o valor do dicionário.
+ print("{valor}")
 ```
