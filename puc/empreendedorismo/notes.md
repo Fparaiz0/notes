@@ -14,4 +14,16 @@ No contexto do empreendedorismo, ter um mindset empreendedor significa estar abe
  - <strong>Resiliência:</strong> capacidade de lidar com fracassos, aprender com eles e seguir em frente com ainda mais determinação;
  - <strong>Assunção de riscos calculados:</strong> diferente da imprudência, o empreendedor avalia os riscos e decide com base em informações e probabilidade de retorno;
  - <strong>Visão de futuro:</strong> capacidade de imaginar o que ainda não existe, antecipar tendências e orientar suas ações com base em cenários futuros desejados.
+
 <hr>
+
+# SEMANA 2
+
+### INOVAÇÃO NO EMPRENDEDORISMO:
+Inovar é mais do que criar algo novo: é transformar ideias em soluções que geram valor para a sociedade, para as organizações e para os mercados. Para os empreendedores, a inovação é o motor que impulsiona a capacidade de identificar oportunidades nos ambientes em constante mudança. Segundo Schumpeter (1934), a inovação é o elemento central do desenvolvimento econômico, pois é por meio de novas combinações que surgem novos produtos, novos mercados, novos processos e novos modelos de negócio, promovendo o que o autor chamou de destruição criativa.
+
+### TIPOS DE INOVAÇÃO:
+<img width="1181" height="354" alt="image" src="https://github.com/user-attachments/assets/8be6e159-c92f-418c-a7a6-de8ed0865d7c" />
+
+<strong>Resumindo:</strong> o ponto principal para uma inovação é a criatividade do(s) empreendedor(es), ela é a habilidade de gerar novas ideias, porém ela não é um dom inato: é uma competência que pode ser estimulada com prática e exposição a diferentes experiências.
+
