@@ -18,7 +18,7 @@ tipo_de_retorno nome_da_funcao(tipo_do_parametro parametro) {
 
 // exemplo:
 String informarNome(String nome) {
-System.out.printl("Seu nome é " + nome + "!");
+    System.out.printl("Seu nome é " + nome + "!");
 }
 ```
 
@@ -36,6 +36,12 @@ System.out.println("Olá, %s!", nome);
 // %d -> um inteiro;
 // %f -> um float;
 // %s -> uma string.
+```
+
+Em Java qualquer número decimal é double por padrão, se quiser torná-lo float precisa declarar:
+```java
+float meuFloat = 10.5f; // obrigatório o 'f' ou 'F' no final;
+double meuDouble = 10.5; // não precisa de sufixo.
 ```
 
 <hr>
