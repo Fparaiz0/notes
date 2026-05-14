@@ -1,7 +1,9 @@
 # SEMANA 1
 
 ### FUNDAMENTOS DO JAVA:
- - É uma linguagem tipada, ou seja, precisa informar o tipo de dados de todas as variáveis e métodos. 
+ - É uma linguagem tipada, ou seja, precisa informar o tipo de dados de todas as variáveis e métodos.
+
+# SEMANA 2
 
 Ponto de partida do código, para qualquer aplicação em Java funcionar precisa adicionar na linha onde o código se inicia:
 ```java
@@ -42,6 +44,24 @@ Em Java qualquer número decimal é double por padrão, se quiser torná-lo floa
 ```java
 float meuFloat = 10.5f; // obrigatório o 'f' ou 'F' no final;
 double meuDouble = 10.5; // não precisa de sufixo.
+```
+
+Criar o método construtor, ou seja, um método que é chamado logo que a classe é instanciada:
+```java
+public class Exemplo {
+
+ // Exemplo de método construtor, ele não possui o tipo de retorno e precisa ser exatamente o mesmo nome da classe.
+ Exemplo() {
+  System.out.println("Exemplo de um construtor.");
+ }
+}
+```
+
+Uso do this:
+```java
+String variavel;
+
+this.variavel = "teste"; // atribui globalmente o valor para o atributo "variavel", exatamente como o "$this->" no PHP.
 ```
 
 <hr>
