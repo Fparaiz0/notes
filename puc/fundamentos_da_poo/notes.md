@@ -3,6 +3,8 @@
 ### FUNDAMENTOS DO JAVA:
  - É uma linguagem tipada, ou seja, precisa informar o tipo de dados de todas as variáveis e métodos.
 
+<hr>
+
 # SEMANA 2
 
 Ponto de partida do código, para qualquer aplicação em Java funcionar precisa adicionar na linha onde o código se inicia:
