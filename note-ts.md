@@ -26,9 +26,19 @@ npx tsc --init
 ```
 
 Compilar os arquivos TypeScript:
-
 ```bash
 npx tsc
+
+// ATENÇÃO! Este comando compila somente os arquivos que forem declarados no include[] no arquivo "tsconfig.json" que deve se encontrar na raíz do projeto.
+// Segue exemplo abaixo:
+// {
+//   "compilerOptions": {
+//     opções...
+//  },
+//   "include": [
+//     "./src/**/*.ts" // aqui declarado ele compila todos os arquivos ts que se encontram dentro do diretório "src".
+//  ]
+// }
 ```
 
 Fazer com que o compilador fique monitorando os arquivos TypeScript e compile-os automaticamente a partir de qualquer alteraçaõ feita:
@@ -84,21 +94,4 @@ Para atualizar as dependencias de forma interativa, basta dar este comando no te
 
 ```bash
 npx npm-check-updates -i
-```
-
-<hr>
-
-### REACT REQUISITOS
-
-* Node JS 22 ou superior;
-* NPX última versão.
-
-<hr>
-
-### PASSOS PARA RODAR O PROJETO REACT (depois de tê-lo clonado)
-
-Instalar o restante das dependencias necessárias:
-
-```bash
-npm install
 ```
