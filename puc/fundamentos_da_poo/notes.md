@@ -7,6 +7,8 @@
 
 # SEMANA 2
 
+### ANOTAÇÕES:
+
 Ponto de partida do código, para qualquer aplicação em Java funcionar precisa adicionar na linha onde o código se inicia:
 ```java
 public static void main(String[] args) {
