@@ -31,12 +31,12 @@ Criando-a no componente:
 ```js
 import { ReactNode } from "react"; // se for utilizar children precisa importá-lo.
 
-interface UserProps{
+interface UserProps{ // interface remete a objeto em TypeScript.
     name: string;
     children?: ReactNode; // O "?" informa que o elemento do objeto não é obrigatório.
 }
 
-const User = ({name, children}: UserProps) => {
+const User = ({name, children}: UserProps) => { // em TypeScript tudo precisa ser tipado, igualmente desta forma os parâmetros para esta função; como os parâmetros aqui estão dentro de um objeto o retorno também precisa ser um objeto, onde cada parâmetro é um item deste objeto.
     return (
         <div>
             <p>Usuário: {name}</p>
@@ -49,7 +49,7 @@ export default User;
 
 Depois, imprimindo-os na view:
 
-```js
+```ts
 import User from "../components/User";
 
 const Home = () => {
@@ -57,7 +57,7 @@ const Home = () => {
 
   return (
     <main>
-      <User name={userName}>
+      <User name={userName}> /* o "name" aqui, ou seja, o nome do parâmetro, precisa ser igual ao que está na funcão chamada. */
         <p>Utilizando Children</p>
       </User>
       <h2>Bem-vindo!</h2>
@@ -68,15 +68,14 @@ const Home = () => {
 export default Home;
 ```
 
-Utilizando o useState,
-Precisa informar o 'use client' para importá-lo:
+Utilizando o useState, precisa informar o 'use client' para importá-lo:
 
 ```js
 "use client";
 import { useState } from "react";
 
 const Home = () => {
-  const [nameUser, setNameUser] = useState("Lucas"); // o valor padrão começa com "Lucas".
+  const [nameUser, setNameUser] = useState("Lucas"); // o valor padrão começa com "Lucas" e o tipo da variável "nameUser" depende do valor que for informado no useState, como foi informado "Lucas" é uma string.
 
   return (
     <main>
