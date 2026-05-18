@@ -105,4 +105,21 @@ if (variavel1 == variavel2) { /* lógica */ } // é preferível NÃO utilizar es
 if (Objects.equals(variavel1, variavel2)) { /* lógica */ } // mas sim este.
 ```
 
+For(each) e ArrayList:
+```java
+import java.util.ArrayList; // necessário a importação para trabalhar com ArrayList.
+
+ArrayList<String> carros = new ArrayList<String>(); // síntaxe básica para criar um objeto ArrayList.
+carros.add("exemplo");
+carros.add("exemplo2");
+carros.add("exemplo3");
+for (String i : carros) {
+    System.out.println(i);
+    carros.set(0, "Ferrari"); // o método set adiciona o elemento do segundo argumento na posição informada no primeiro argumento dentro do ArrayList, se houver algum elemento na posição informada ele é passado uma posição a frente.
+    carros.get(0); // retorna o elemento de índice 0 deste array.
+    carros.clear(); // limpa a lista.
+    System.out.println(carros.size()); // método size retorna a quantidade de elementos que o array possui.
+}
+```
+
 <hr>
