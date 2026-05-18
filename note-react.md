@@ -71,7 +71,7 @@ export default Home;
 Utilizando o useState, precisa informar o 'use client' para importá-lo:
 
 ```js
-"use client";
+"use client"; // com use client o código roda no navegador.
 import { useState } from "react";
 
 const Home = () => {
@@ -91,8 +91,7 @@ const Home = () => {
 export default Home;
 ```
 
-Utilizando o useEffect,
-Ele realiza os comportamentos passados para ele caso o seu segundo parâmetro sofra quaisquer alterações:
+Utilizando o useEffect, ele realiza os comportamentos passados para ele caso o seu segundo parâmetro sofra quaisquer alterações:
 
 ```js
 "use client";
