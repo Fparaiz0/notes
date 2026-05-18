@@ -26,3 +26,18 @@ Já a transversal ocorre sem direção predefinida, tanto de funcionários para 
 A comunicação circular é parecida com a transversal, porém aqui ela promove um fluxo livre, informal e contínuo de informações, em resumo, a transversal é mais focada em eficiência entre áreas (tipo um "x" no organograma), enquanto a circular é focada na fluidez total da rede (todos conversam).
 
 <hr>
+
+# SEMANA 3
+
+### ABORDAGEM PEOPLE FIRST
+É uma estratégia que valoriza as pessoas como elemento central nas prioridades empresariais. Essa abordagem de gestão tem ganhado relevância não apenas por promover o bem-estar dos colaboradores, mas também por impulsionar os resultados organizacionais, ou seja, é uma abordagem organizacional e cultural que coloca o ser humano no centro das decisões. Em vez de focar apenas em processos, lucros ou burocracia, essa filosofia prioriza o bem-estar, o desenvolvimento e a escuta ativa de colaboradores, clientes e da sociedade.
+
+### ENDOMARKETING
+O endomarketing, ou marketing interno, consiste em um conjunto de ações estratégicas voltadas para os colaboradores da empresa. Seu objetivo é promover a cultura organizacional, motivar a equipe e engajar os funcionários, transformando-os em defensores da marca e garantindo a retenção de talentos, ou seja, fazer com que profissionais bons queiram permanecer na empresa, em vez de pedir demissão ou ir para outra organização.
+<br>
+<img width="918" height="682" alt="image" src="https://github.com/user-attachments/assets/76f1520e-0699-455f-aab8-0add9c025e0c" />
+
+### DIVERSIDADE E INCLUSÃO
+A diversidade e a inclusão nas organizações é um tema fundamental e ligado a qualquer estratégia de comunicação e gestão. Muitas empresas têm setores estruturados dedicados à gestão da diversidade e à inclusão, com iniciativas que promovem a pluralidade de perfis étnicos, sociais e culturais, por meio de ações que garantem acesso e permanência a diferentes grupos e equidade, além de direitos e oportunidades equivalentes para todos.
+<br>
+<img width="927" height="630" alt="image" src="https://github.com/user-attachments/assets/72126d21-5bac-425a-a60e-d062cc6c904f" />
