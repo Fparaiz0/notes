@@ -41,3 +41,9 @@ O endomarketing, ou marketing interno, consiste em um conjunto de ações estrat
 A diversidade e a inclusão nas organizações é um tema fundamental e ligado a qualquer estratégia de comunicação e gestão. Muitas empresas têm setores estruturados dedicados à gestão da diversidade e à inclusão, com iniciativas que promovem a pluralidade de perfis étnicos, sociais e culturais, por meio de ações que garantem acesso e permanência a diferentes grupos e equidade, além de direitos e oportunidades equivalentes para todos.
 <br>
 <img width="927" height="630" alt="image" src="https://github.com/user-attachments/assets/72126d21-5bac-425a-a60e-d062cc6c904f" />
+
+<hr>
+
+# SEMANA 4
+
+...
