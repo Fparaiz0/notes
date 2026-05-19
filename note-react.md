@@ -160,8 +160,8 @@ const Exemplo = (e) => {
     e.preventDefault();
 }
 
-// Utilizar e: any => vulnerável, isto desliga o ts e ele não valida a tipagem deixando o método menos seguro.
-// Utilizando e: React.FormEvent<HTMLFormEvent> => seguro, usa o ts e valida a tipagem, deixando o método seguro.
+// Utilizar e: any => vulnerável, isto não tipa o parâmetro (pois any pode ser qualquer tipo) e deixa o projeto menos seguro.
+// Utilizando e: React.FormEvent<HTMLSubmitEvent> => seguro, usa o ts e valida a tipagem, deixando o método seguro.
 ```
 
 Mais anotações formulário em React e TypeScript:
