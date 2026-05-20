@@ -27,3 +27,9 @@ Inovar é mais do que criar algo novo: é transformar ideias em soluções que g
 
 <strong>Resumindo:</strong> o ponto principal para uma inovação é a criatividade do(s) empreendedor(es), ela é a habilidade de gerar novas ideias, porém ela não é um dom inato: é uma competência que pode ser estimulada com prática e exposição a diferentes experiências.
 
+<hr>
+
+# SEMANA 3
+
+### EMPREENDEDORISMO SUSTENTÁVEL
+Define-se como um empreendimento que cresce de forma responsável, isto é, não somente gerar lucro, mas de gerar impacto nas pessoas, no meio ambiente e no futuro que deseja construir; neste contexto entra a ideia de sustentabilidade ambiental, explicada como a capacidade de uma organização crescer de forma economicamente viável, ambientalmente responsável e socialmente justa (Elkington, 1997). 
