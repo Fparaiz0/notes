@@ -46,4 +46,36 @@ A diversidade e a inclusão nas organizações é um tema fundamental e ligado a
 
 # SEMANA 4
 
-...
+### DIATÓPICA
+A variação diatópica (ou regional) é a mudança que uma língua sofre dependendo da localização geográfica. Ela ocorre nos sotaques, na pronúncia e no vocabulário, refletindo a cultura de cada região, sem que nenhuma forma seja considerada "certa" ou "errada" (ex.: língua portuguesa falada no Brasil e em Portugal).
+
+### DIACRÔNICA
+A variação diacrônica estuda as mudanças que uma língua sofre com o passar dos séculos. Por exemplo, a evolução do latim para o português ou a substituição histórica da palavra "cousa" por "coisa".
+
+### DIAFÁSICA
+A variação diafásica dita a forma como vamos nos comunicar dependendo da situação, de onde estamos ou com quem estamos conversando, ela dita se falaremos de maneira formal ou informal.
+
+### DIASTRÁTICA
+É uma variação que ocorre em nossa comunicação de acordo com o grupo de pessoas que estamos conversando (ex.: a forma como um grupo de skatistas se comunicam, ou a forma como um grupo de idosos se comunicam; até a forma como um grupo de amigos com gírias específicas conversam entre si).
+
+### BARREIRAS DE COMUNICAÇÃO, SEGUNDO ROBBINS E JUDGE (2020), QUE ENFRENTAMOS
+<img width="1019" height="217" alt="image" src="https://github.com/user-attachments/assets/9d152f2f-d61a-4f2c-9501-5f1f5b7e4278" />
+<br>
+<img width="1027" height="270" alt="image" src="https://github.com/user-attachments/assets/e411911e-d787-460e-ae85-13d3e95f0eee" />
+<br>
+<img width="1028" height="273" alt="image" src="https://github.com/user-attachments/assets/4665f668-f5d9-4b77-80f5-ce271cf1638d" />
+<br>
+<img width="1029" height="345" alt="image" src="https://github.com/user-attachments/assets/1b0099e2-6a2f-4d70-ae86-5f3d66994747" />
+<br>
+<img width="1024" height="321" alt="image" src="https://github.com/user-attachments/assets/fbe11067-9617-435a-8cf6-06eaf5f9e255" />
+<br>
+<img width="1024" height="374" alt="image" src="https://github.com/user-attachments/assets/2d452071-5cdb-4d09-b225-dc034a023eb6" />
+<br>
+<img width="1029" height="607" alt="image" src="https://github.com/user-attachments/assets/11086749-f694-407b-adc3-8c9a3490aaaa" />
+<br>
+<img width="1027" height="419" alt="image" src="https://github.com/user-attachments/assets/1e75eb4c-ca16-46c7-904a-9570b8aef767" />
+
+### RESUMO
+A maioria da população possui preconceito com povos quem possuem uma linguegem/comunicação diferente das suas por acharem aquilo incorreto ou até mesmo "vulgar", porém, nenhuma linguagem é certa ou errada, vimos que vários povos possuem línguas, culturas e sotaques diferentes, isto é devido a como, por quem e onde foram criados, mas não torna a sua forma de se comunicarem inferior ou indiferente dos demais, toda linguagem é válida e aceita.
+
+<hr>
