@@ -32,4 +32,17 @@ Inovar é mais do que criar algo novo: é transformar ideias em soluções que g
 # SEMANA 3
 
 ### EMPREENDEDORISMO SUSTENTÁVEL
-Define-se como um empreendimento que cresce de forma responsável, isto é, não somente gerar lucro, mas de gerar impacto nas pessoas, no meio ambiente e no futuro que deseja construir; neste contexto entra a ideia de sustentabilidade ambiental, explicada como a capacidade de uma organização crescer de forma economicamente viável, ambientalmente responsável e socialmente justa (Elkington, 1997). 
+Define-se como um empreendimento que cresce de forma responsável, isto é, não somente gerar lucro, mas de gerar impacto nas pessoas, no meio ambiente e no futuro que deseja construir; neste contexto entra a ideia de sustentabilidade ambiental, explicada como a capacidade de uma organização crescer de forma economicamente viável, ambientalmente responsável e socialmente justa (Elkington, 1997).
+
+### ESG
+ESG é uma sigla, em inglês, que significa environmental (ambiental), social (social) e governance (governança); ela representa um conjunto de princípios usados por investidores, governos e consumidores para avaliar o desempenho de empresas em relação às boas práticas ambientais, éticas, sociais e de gestão corporativa.
+Os três pilares do ESG:
+ - Ambiental: foco é o uso responsável dos recursos naturais, mitigação de impactos ambientais e preservação dos ecosistemas;
+ - Social: foco é no bem-estar das pessoas, inclusão, equidade e desenvolvimento das comunidades;
+ - Governança: foco é na ética, integridade, transparência, controle e gestão estratética.
+
+### AGENDA 2030
+É um plano global adotado por 193 países, em 2015, que reúne os 17 Objetivos de Desenvolvimento Sustentável (ODS). Essa agenda propõe metas concretas – como erradicar a pobreza, reduzir desigualdades, promover o consumo consciente, proteger o meio ambiente e garantir educação de qualidade.
+<br>
+<img width="1137" height="576" alt="image" src="https://github.com/user-attachments/assets/6f995dbf-c590-45a8-8733-d7e929c9cecb" />
+
