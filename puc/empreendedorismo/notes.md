@@ -42,7 +42,14 @@ Os três pilares do ESG:
  - Governança: foco é na ética, integridade, transparência, controle e gestão estratética.
 
 ### AGENDA 2030
-É um plano global adotado por 193 países, em 2015, que reúne os 17 Objetivos de Desenvolvimento Sustentável (ODS). Essa agenda propõe metas concretas – como erradicar a pobreza, reduzir desigualdades, promover o consumo consciente, proteger o meio ambiente e garantir educação de qualidade.
+É um plano global adotado por 193 países, em 2015, que reúne os 17 Objetivos de Desenvolvimento Sustentável (ODS). Essa agenda propõe metas concretas – como erradicar a pobreza, reduzir desigualdades, promover o consumo consciente, proteger o meio ambiente e garantir educação de qualidade para todos até 2030.
 <br>
 <img width="1137" height="576" alt="image" src="https://github.com/user-attachments/assets/6f995dbf-c590-45a8-8733-d7e929c9cecb" />
+
+<hr>
+
+# SEMANA 4
+
+### RESUMO:
+Fortalece tudo o que foi falado na semana 3, falando que qualquer empreenderismo, das menores startups as maiores indústrias, podem fazer a diferença no planeta aderindo o ESG e as ODS da Agenda 2030, alguns estudos apontam que, as empresas que aderem estas práticas chegam até a conseguir uma maior lucro (rentabilidade), maior propagação e número de clientes.
 
