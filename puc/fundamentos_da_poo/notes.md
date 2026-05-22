@@ -36,7 +36,7 @@ System.out.printl("Olá, mundo!");
 Formatar string na hora de imprimi-la:
 ```java
 String nome = "Lucas";
-System.out.println("Olá, %s!", nome);
+System.out.printf("Olá, %s!", nome);
 
 // Precisa passar como segundo parâmetro do print a variável que quer imprimir, e onde ela for ficar precisa informar de acordo com o seu tipo, como nos exemplos abaixo:
 // %d -> um inteiro;
@@ -47,7 +47,7 @@ System.out.println("Olá, %s!", nome);
 Em Java qualquer número decimal é double por padrão, se quiser torná-lo float precisa declarar:
 ```java
 float meuFloat = 10.5f; // obrigatório o 'f' ou 'F' no final;
-double meuDouble = 10.5; // não precisa de sufixo.
+double final meuDouble = 10.5; // não precisa de sufixo, um adendo que o "final" faz a variável não poder mais sofrer alteração no valor, como "const" em TS.
 ```
 
 Criar o método construtor, ou seja, um método que é chamado logo que a classe é instanciada:
@@ -103,6 +103,7 @@ Comparação de valores em Java:
 ```java
 if (variavel1 == variavel2) { /* lógica */ } // é preferível NÃO utilizar este modelo.
 if (Objects.equals(variavel1, variavel2)) { /* lógica */ } // mas sim este.
+if (lista_aleatoria.isEmpty()) // função nativa para validar se uma lista/array está vazia.
 ```
 
 For(each) e ArrayList:
