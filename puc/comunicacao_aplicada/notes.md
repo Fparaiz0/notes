@@ -79,3 +79,28 @@ A variação diafásica dita a forma como vamos nos comunicar dependendo da situ
 A maioria da população possui preconceito com povos quem possuem uma linguegem/comunicação diferente das suas por acharem aquilo incorreto ou até mesmo "vulgar", porém, nenhuma linguagem é certa ou errada, vimos que vários povos possuem línguas, culturas e sotaques diferentes, isto é devido a como, por quem e onde foram criados, mas não torna a sua forma de se comunicarem inferior ou indiferente dos demais, toda linguagem é válida e aceita.
 
 <hr>
+
+# SEMANA 5
+
+### ORATÓRIA OU COMUNICAÇÃO ORAL
+Como o próprio nome diz a comunicação oral é o gesto de se comunicar verbalmente ao público, com suas próprias palavras; mas, é preciso domínio de alguns fatores para possuir uma boa oratória, isto é, transmitir com clareza o que deseja numa transmissão de uma mensagem.
+Além da naturalidade, saber transmitir emoção na fala e conhecimento sobre o assunto também são aspectos fundamentais de uma boa comunicação. Por isso, a comunicação, sobretudo por parte dos gestores, precisa ser assertiva. Isso não quer dizer que o gestor deve emitir ordens em tom autoritário, e sim que a comunicação deve ser firme, clara e direta, evitando hesitações e constrangimentos; imagine receber uma tarefa de um gerente que não está muito seguro sobre a sua necessidade – com isso, você também não se sentirá motivado o bastante para executá-la, podendo se perguntar, até mesmo, se realmente precisa fazê-la.
+
+Não basta apenas falar com naturalidade. Para envolver os ouvintes, também é preciso falar com disposição, energia, emoção. Se você não demonstrar interesse pelo tema que transmite, não poderá pretender que os ouvintes se envolvam pelo assunto. Antes de envolver o público, você precisará mostrar entusiasmo e interesse pela matéria.A conjugação da espontaneidade com o envolvimento permitirá que você conquiste credibilidade e a participação e o envolvimento dos ouvintes. [...] Para que a sua comunicação seja eficiente, além de falar com naturalidade e emoção, é preciso que demonstre conhecimento sobre o assunto que irá apresentar.Entre todos os aspectos importantes para o sucesso da comunicação, o mais relevante é o conteúdo. Por isso, estude o assunto com profundidade. Saiba muito mais do que precisará para expor. Deixe sobrar informações. Primeiro, porque esse conhecimento lhe dará mais confiança diante do público. Depois, porque essa demonstração de domínio da matéria poderá dar maior credibilidade à sua apresentação (Polito, Theodoro, 2016, p. 271).
+
+### DIFERENÇA DE ORATÓRIA E RETÓRICA
+Uma boa oratória é a arte de se expressar bem em público, isto é, de transmitir bem o que deseja passar, falando num bom tom de voz, boa dicção, presença de palco, linguagem corporal e etc, já a retórica é a arte de construir argumentos e persuadir, isto envolve construir boas ideias, argumentos que fortalecem o que está repassando, boas técnicas de persuasão e etc.
+Estas coisas não envolvem necessariamente possuir conhecimento sobre o assunto abordado, isto já entra num terceiro elemento, que é o domínio do conteúdo.
+
+### DICAS PARA POSSUIR UMA BOA ORATÓRIA
+ - Fale com uma linguagem profissional, mas natural – como se estivesse realmente conversando com seu time.
+ - Evite ler um texto decorado organize os pontos principais e fale com espontaneidade.
+ - Grave em um ambiente silencioso, com boa iluminação e sem distrações.
+ - Cite exemplos práticos que ocorrem no dia-a-dia de sua empresa ao invés de metáforas abstratas como “somos uma orquestra” ou “somos um time de futebol”, ex.: ao explicar a importância da manutenção preventiva, o coordenador da área compara revisões programadas de um carro da empresa ao invés de usar exemplos históricos distantes, como o acidente de Chernobyl.
+ - Saber orientar os ouvintes também pode ajudar bastante na comunicação, uma vez que, com isso, podemos prepará-los e informá-los previamente sobre o assunto que será abordado. Ex.: em uma reunião de planejamento de vendas, o gerente comercial evita usar jargões vagos, como “vamos tentar melhorar o desempenho”. Em vez disso, ele diz “nosso objetivo é aumentar em 12% as vendas do produto X até o final do trimestre, focando em clientes da região sul.” - Impacto: evita dúvidas, mantém o foco e permite à equipe alinhar expectativas e metas.
+
+### SER UM BOM OUVINTE
+Ouvir significa dar importância ao outro, fortalecendo as bases da dimensão ética no relacionamento interpessoal. Ouvindo, rompemos a limitação do monólogo e da visão unilateral que nos predispõem a assumir atitudes de intolerância e de autoritarismo. [...] Com certeza, um dos maiores problemas no mundo empresarial é a falta do exercício do diálogo aberto e franco, sem rodeios ou intolerâncias, o que implica na convivência das diferenças. A diversidade de pensamento contribui para o enriquecimento da criatividade da empresa na busca de soluções e inovações. Pessoas com pontos de vista diferentes podem trabalhar unidas e integradas por objetivos comuns (Matos, 2014, p. 58).
+
+### RESUMO
+Nesta unidade, aprendemos que a fala com propriedade, com conteúdo, com objetividade, com propósito, bem-ilustrada e bem-articulada é essencial na transmissão de informações. Além disso, a escuta e o bom diálogo também são mecanismos importantes de um processo de comunicação bem-feito. Na unidade seguinte, avançaremos na temática das formas de comunicação, concentrando-nos na comunicação escrita.
