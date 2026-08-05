@@ -16,7 +16,7 @@ Este conceito veio da ideia do homem poder citar números elevados com o menor n
  - Notação posicional: a posição do número muda seu peso, por isso o 375 é diferente do 573, mesmos algarismos mas estão em casas diferentes;
 
 ### CONVERSÃO DE NÚMEROS DE QUALQUER BASE PARA A BASE 10
-Usa-se a seguinte fórmula: N = soma [dígito x base^posição], exemplo:
+Usa-se a seguinte fórmula: N = soma [dígito x base^posição], exemplo:<br>
 O binário 111000, como fica: <br><br>
 111000 = 1x2⁵ + 1x2⁴ + 1x2³ + 0x2² + 0x2¹ + 0x2⁰ <br>
 111000 = 32 + 16 + 8 + 0 + 0 + 0 <br>
