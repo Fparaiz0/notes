@@ -12,3 +12,12 @@ Para garantir que as transações em um banco de dados sejam confiáveis, especi
  - NoSQL: refere-se a uma categoria de bancos de dados não relacionais projetados para armazenar e gerenciar dados flexíveis ou não estruturados.
 
 <hr>
+
+# SEMANA 2
+
+### PENSANDO ANTES DE AGIR
+Antes da criação do banco de dados físico é necessário seguir alguns passos a fim de analizar a situação e validar se realmente é preciso o uso do mesmo. Os passos são basicamente:
+ - Identificar o problema: por que foi requerida a criação de um banco de dados? Isso pode ser resolvido somente anotando em um bloco de notas ou numa planilha do excel?
+ - Modelagem conceitual: aqui começa como se fosse criarmos a "planta" do banco de dados, é onde colhemos as informações do que gostaríamos de armazenar nas respectivas tabelas do banco de dados; possui entidades (cada item da tabela), atributos (características dos atributos) e relacionamentos (tipos de ligações que cada tabela do banco possui entre si);
+ - Modelagem lógica: é onde criamos de fato a "planta" do banco, geralmente em softwares como o brModelo ou o Workbench, criamos de forma física o conceito das tabelas, dos relacionamentos entre si e de suas entidades com seus atributos;
+ - Modelagem física: é quando já criamos o banco de dados fisicamente, utilizamos queries e podemos realizar qualquer ato do CRUD com o bd.  
